@@ -1,0 +1,96 @@
+<mockup version="1.0" skin="sketch" measuredW="733" measuredH="605" mockupW="698" mockupH="577">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="25" y="18" w="698" h="577" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="42" y="101" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="149" y="127" w="571" h="53" measuredW="472" measuredH="51" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Keyboard%20Shortcut%20Reference</text>
+        <size>32</size>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="42" y="195" w="571" h="24" measuredW="73" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Application</text>
+        <size>13</size>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="387" y="227" w="269" h="-1" measuredW="52" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Adobe</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="40" y="227" w="-1" h="-1" measuredW="341" measuredH="25" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Type%20the%20name%20of%20the%20application%20you%20are%20looking%20for%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="88" y="284" w="-1" h="-1" measuredW="74" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Acrobat</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="88" y="321" w="74" h="-1" measuredW="55" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Flash</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="88" y="358" w="74" h="-1" measuredW="83" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fireworks</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="205" y="284" w="74" h="-1" measuredW="84" measuredH="28" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Photoshop</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="205" y="321" w="74" h="-1" measuredW="70" measuredH="28" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Premier</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="205" y="358" w="74" h="-1" measuredW="83" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Captivate</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="316" y="284" w="-1" h="-1" measuredW="74" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Acrobat</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="316" y="321" w="74" h="-1" measuredW="55" measuredH="28" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Flash</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="316" y="358" w="74" h="-1" measuredW="83" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fireworks</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="433" y="284" w="74" h="-1" measuredW="84" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Photoshop</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="433" y="321" w="74" h="-1" measuredW="70" measuredH="28" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Premier</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="433" y="358" w="74" h="-1" measuredW="83" measuredH="28" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Captivate</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

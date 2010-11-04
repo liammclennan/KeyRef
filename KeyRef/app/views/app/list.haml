@@ -1,0 +1,11 @@
+%h1 Applications
+
+.centered_form
+  %label{:for=>'app_search'}
+    Type the name of the application that you are looking for:
+    %input{:type=>'textbox', :name=>'app_search', :id=>'app_search', :size=>60, :class=>'title'}
+      
+#search_results
+  - @applications.each do |application|
+    .span-5.search_result{:application_url=>url_for(:action=>'show',:id=>application._id, :appname=>application.name)}= application.name
+

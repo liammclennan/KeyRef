@@ -1,0 +1,22 @@
+%h1 Enter a New Shortcut
+
+.span-20.centered_form
+  - form_for :shortcut, :url => {:controller=>'shortcut',:action=>'create'} do |f|
+    .form_field
+      = select :blah, :application_id, @app_selection
+    .form_field
+      = f.label 'name'
+      %br
+      = f.text_field 'name'
+      eg. Select all
+    .form_field
+      = f.label 'shortcut'
+      %br
+      = f.text_field 'shortcut'
+      eg. Ctrl+A
+    .form_field
+      = f.label 'description'
+      %br
+      = f.text_area 'description', :rows => 3, :style=>'height: 100px;'
+    .form_field
+      = submit_tag

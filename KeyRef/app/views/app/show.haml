@@ -1,0 +1,16 @@
+%h1= @application.name + ' Shortcuts'
+
+.centered_form
+  %label{:for=>'keyword_search'}
+    Keyword Search:
+    %input{:type=>'textbox', :name=>'keyword_search', :id=>'keyword_search', :size=>60, :class=>'title'}
+
+#search_results
+  - @application.shortcuts.sort_by {|sc| sc.name}.each do |shortcut|
+    .span-5.app_search_result
+      .shortcut_title= shortcut.name
+      .shortcut= shortcut.shortcut
+      .keyboard_image= image_tag "keyboard.png", :alt=>'Keyboard'
+
+
+

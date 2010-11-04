@@ -1,0 +1,61 @@
+.search_result
+{
+    border: 2px solid #999999;
+    margin: 2px 16px 2px 16px;
+    padding: 5px;
+    cursor: pointer;
+    background-color:white;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.app_search_result
+{
+    border: 2px solid #999999;
+    margin: 2px 16px 2px 16px;    
+    padding: 5px;
+    cursor: pointer;
+    background-color:white;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    height: 70px;
+}
+
+.shortcut
+{
+    margin: 15px 0px 0px 20px;
+    font-size: 1.1em;
+}
+
+.shortcut_title
+{
+    font-weight: bold;    
+}
+
+.keyboard_image
+{
+    position: relative;
+    float: right;
+    bottom: 55px;
+    right: 5px;
+    width: 32px;
+}
+
+.centered_form
+{
+    margin: 5px 80px; 5px; 80px;
+}
+
+#footer
+{
+    margin: 0;
+    clear: both;
+    padding-top: 20px;
+}
+
+#footer_content
+{
+    padding: 10px;
+    height: 70px;
+    background-color: #eee;
+}
